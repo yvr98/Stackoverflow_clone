@@ -5,50 +5,50 @@ import RenderTag from "./RenderTag";
 
 const question = [
   {
-    id: 1,
+    id: "1",
     title: "Question 1 of test",
   },
   {
-    id: 2,
+    id: "2",
     title: "Question 2 of test",
   },
   {
-    id: 3,
+    id: "3",
     title: "Question 3 of test",
   },
   {
-    id: 4,
+    id: "4",
     title: "Question 4 of test",
   },
   {
-    id: 5,
+    id: "5",
     title: "Question 5 of test",
   },
 ];
 
 const tags = [
   {
-    id: 1,
+    id: "1",
     name: "javascript",
     totalQuestions: 5,
   },
   {
-    id: 2,
+    id: "2",
     name: "react",
     totalQuestions: 6,
   },
   {
-    id: 3,
+    id: "3",
     name: "redux",
     totalQuestions: 8,
   },
   {
-    id: 4,
+    id: "4",
     name: "next.js",
     totalQuestions: 2,
   },
   {
-    id: 5,
+    id: "5",
     name: "html",
     totalQuestions: 9,
   },
